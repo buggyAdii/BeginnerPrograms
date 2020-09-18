@@ -1,2 +1,3 @@
-# Beginner Java Programs
- Beginner Java Programs
+# Beginner Programs
+Beginers Programs in C, Python, Java & what not?
+
