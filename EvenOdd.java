@@ -5,8 +5,8 @@ class EvenOdd
     int num = 6;
 
     if ( num % 2 == 0 )
-        System.out.println("Entered number is even");
+        System.out.println("Entered number is an even number");
      else
-        System.out.println("Entered number is odd");
+        System.out.println("Entered number is an odd number");
   }
 }
