@@ -2,7 +2,7 @@
 echo "Enter a number"
 read num
 case $num in
-100)
+aditya)
 	echo "Hundred"
 	;;
 200)
