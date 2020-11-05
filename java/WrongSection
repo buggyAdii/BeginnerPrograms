@@ -1,0 +1,5 @@
+public class SectionException extends Exception {
+  public String toString() {
+    return "Invalid section"";
+  }
+}
